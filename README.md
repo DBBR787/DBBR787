@@ -26,7 +26,7 @@
   <a href="https://imgbb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/YykXKvk/NLP.jpg" alt="NLP" width="40" height="40"/> 
   </a>
-  <a href="https://www.deepai.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/nkmG7kP/images-3.jpg" alt="Deep Learning" width="40" height="40"/> 
   </a>
   <a href="https://ibb.co/tppDZ4S" target="_blank" rel="noreferrer"> 
