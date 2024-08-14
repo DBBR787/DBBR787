@@ -29,8 +29,8 @@
   <a href="https://www.deepai.org/" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/nkmG7kP/images-3.jpg" alt="Deep Learning" width="40" height="40"/> 
   </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-    <img src="C:/Users/Bharath/OneDrive/Desktop/GEN AI.jpg" alt="Generative AI" width="40" height="40"/> 
+  <a href="https://ibb.co/tppDZ4S" target="_blank" rel="noreferrer"> 
+    <img src="https://i.ibb.co/DffQGtN/generative-AI.jpg" alt="Generative AI" width="40" height="40"/> 
   </a>
   <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/> 
