@@ -20,16 +20,16 @@
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/> 
   </a>
-  <a href="https://imgbb.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/X2jDKb6/Lang-Chain.png" alt="LangChain" width="40" height="40"/> 
   </a>
-  <a href="https://imgbb.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.ibm.com/topics/natural-language-processing" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/YykXKvk/NLP.jpg" alt="NLP" width="40" height="40"/> 
   </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.ibm.com/topics/deep-learning" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/nkmG7kP/images-3.jpg" alt="Deep Learning" width="40" height="40"/> 
   </a>
-  <a href="https://ibb.co/tppDZ4S" target="_blank" rel="noreferrer"> 
+  <a href="https://generativeai.net/" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/DffQGtN/generative-AI.jpg" alt="Generative AI" width="40" height="40"/> 
   </a>
   <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> 
