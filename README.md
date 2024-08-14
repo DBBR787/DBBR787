@@ -20,11 +20,11 @@
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/> 
   </a>
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://av-eks-lekhak.s3.amazonaws.com/media/__siz…_images/image_xon2isF-thumbnail_webp-600x300.webp" alt="LangChain" width="40" height="40"/> 
+  <a href="https://imgbb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://i.ibb.co/X2jDKb6/Lang-Chain.png" alt="LangChain" width="40" height="40"/> 
   </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.prismic.io/turing/652ebec8fbd9a45bc833585.webp?auto=format%2Ccompress&fit=max&w=1920" alt="NLP" width="40" height="40"/> 
+  <a href="https://imgbb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://i.ibb.co/YykXKvk/NLP.jpg" alt="NLP" width="40" height="40"/> 
   </a>
   <a href="https://www.deepai.org/" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/nkmG7kP/images-3.jpg" alt="Deep Learning" width="40" height="40"/> 
