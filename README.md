@@ -3,9 +3,6 @@
   <span style="font-size: 80px;"> Hey! Nice to see you.</span>
 </p>
 
-
-
-
 <h1 align="center">Hi 👋, I'm D Bharath Bushan Reddy</h1>
 <h3 align="center">I'm a Data Scientist at GLINTSOFT INFOTECH PRIVATE LIMITED</h3>
 
@@ -14,11 +11,12 @@
 - 🌱 I’m currently learning *Generative AI .*
 
 - 💬 Ask me about *Data Science Related Work*
+
 ## 👉I have technical experience and interest in:
 <ul>
   <li>Deep Learning</li>
   <li>Machine Learning</li>
-  <li>Computer vision</li>
+  <li>Computer Vision</li>
   <li>Natural Language Processing</li>
   <li>MLOps</li>
   <li>Generative AI</li>
@@ -26,13 +24,13 @@
 
 - 📫 How to reach me *bharathdesireddy874@gmail.com*
 
-- ⚡ Fun fact *I think i am funny*
+- ⚡ Fun fact *I think I am more Emotional*
   
-## My Hobbies and interests:
+## My Hobbies and Interests:
 <ul>
   <li>Traveling</li>
   <li>Watching Movies</li>
-  <li>Coding</li>
+  <li>Plyaing Cricket</li>
 </ul>
 
 <h3 align="left">You can also find me on:</h3>
@@ -42,17 +40,43 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="Keras" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
-  <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/> </a>
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/99184393/224023238-7efc5f8d-d6e6-4b2b-9d28-3a9004e7c718.png" alt="LangChain" width="40" height="40"/> </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://www.nltk.org/images/logo.png" alt="NLP" width="40" height="40"/> </a>
-  <a href="https://www.deepai.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Deep_Learning_icon.png" alt="Deep Learning" width="40" height="40"/> </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="Generative AI" width="40" height="40"/> </a>
-  <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/> </a>
-  <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="Keras" width="40" height="40"/> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/> 
+  </a>
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:2400/1*BaJ0BuoXrLtUvvKByHQHXg.png" alt="LangChain" width="40" height="40"/> 
+  </a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.nltk.org/images/logo.png" alt="NLP" width="40" height="40"/> 
+  </a>
+  <a href="https://www.deepai.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Deep_Learning_icon.png" alt="Deep Learning" width="40" height="40"/> 
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="Generative AI" width="40" height="40"/> 
+  </a>
+  <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/> 
+  </a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/> 
+  </a>
 </p>
